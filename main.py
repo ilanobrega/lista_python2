@@ -3,4 +3,6 @@
 
 from quadrado import Quadrado
 
-
+quadrado1 = Quadrado(2)
+print(quadrado1.area())
+print(quadrado1.perimetro())
